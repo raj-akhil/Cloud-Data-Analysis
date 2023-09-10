@@ -34,5 +34,6 @@ numpy - Import
 pandas - Import  
 sqldf from pandasql- install and import  
 matplotlib- Import  
-seaborn - Import  
- 
+seaborn - Import   
+   
+[Additional Details](210409183_AkhilRajRajan_Report.pdf)
